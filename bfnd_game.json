@@ -2,14 +2,16 @@
   "name": "Buddyfight New Drive",
   "menuBackgroundImage": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/bfnd_logo.jpg?raw=true",
   "defaultRessources": {
-    "backgrounds": [],
+    "backgrounds": [
+      "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/bfnd_playmat.jpg?raw=true"
+    ],
     "decksUrl": ""
   },
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://orenji-reiji.github.io/tcgarena-buddyfight-new-drive/bfnd_cards.json",
-    "cardBack": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true"
+    "cardBack": ""
   },
   "deckBuilding": {
     "mainFilters": [
