@@ -236,7 +236,7 @@
       }
     },
     "name": "Dragonic Grimoire",
-    "type": false,
+    "type": "Spell",
     "cost": 0,
     "Size": "",
     "World": [
