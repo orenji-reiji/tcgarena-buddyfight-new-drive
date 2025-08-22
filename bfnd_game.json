@@ -69,10 +69,7 @@
           "content": [
             {
               "direction": "column",
-              "style": {
-                "width": "32vh",
-                "marginRight": "8vh"
-              },
+              "style": false,
               "content": [
                 {
                   "section": "Gauge",
@@ -90,23 +87,19 @@
               "style": false,
               "content": [
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Monster Left",
-                      "style": false
-                    },
-                    {
-                      "section": "Monster Center",
-                      "style": false
-                    },
-                    {
-                      "section": "Monster Right",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "section": "Monster Left",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Monster Center",
+                  "style": false
                 },
                 {
                   "direction": "row",
@@ -126,6 +119,17 @@
                     }
                   ],
                   "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Monster Right",
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -189,7 +193,7 @@
           },
           "Flag": {
             "title": "Flag",
-            "isHidden": "opponent-only",
+            "isHidden": "yes",
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -222,7 +226,7 @@
           "Gauge": {
             "title": "Gauge",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -237,7 +241,7 @@
           },
           "Sets": {
             "title": "Sets",
-            "isHidden": "opponent-only",
+            "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "END",
             "opponentAlignment": false,
@@ -259,7 +263,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Play Area",
+            "displayedTitle": "Gifts",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
