@@ -26,7 +26,7 @@
         "customCategories": [
           "Flag",
           "Buddy",
-          "Gifts"
+          "Buddy Gift"
         ]
       }
     ]
@@ -59,7 +59,7 @@
           "Monster Right",
           "Flag",
           "Buddy",
-          "Gifts",
+          "Buddy Gift",
           "Gauge",
           "Sets"
         ],
@@ -106,7 +106,7 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Gifts",
+                      "section": "Buddy Gift",
                       "style": false
                     },
                     {
@@ -207,22 +207,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Buddy": {
-            "title": "Buddy",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Buddy Zone",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Gauge": {
             "title": "Gauge",
             "isHidden": "yes",
@@ -255,15 +239,31 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Gifts": {
-            "title": "Gifts",
+          "Buddy": {
+            "title": "Buddy",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Gifts",
+            "displayedTitle": "Buddy Zone",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Buddy Gift": {
+            "title": "Buddy Gift",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Buddy Gift",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
