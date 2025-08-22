@@ -1,0 +1,478 @@
+{
+  "TD01-001": {
+    "id": "TD01-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gigant Sword Dragon",
+        "type": "Monster",
+        "cost": "0",
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-001%5D%20Gigant%20Sword%20Dragon.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gigant Sword Dragon",
+    "type": "Monster",
+    "cost": 0,
+    "Size": "3",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Armordragon",
+      "Red Dragon"
+    ],
+    "Power": "8000",
+    "Critical": "4",
+    "Defense": "8000"
+  },
+  "TD01-002": {
+    "id": "TD01-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jamadhar Dragon",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-002%5D%20Jamadhar%20Dragon.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jamadhar Dragon",
+    "type": "Monster",
+    "cost": 0,
+    "Size": "2",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Armordragon",
+      "Green Dragon"
+    ],
+    "Power": "8000",
+    "Critical": "2",
+    "Defense": "4000",
+    "Keyword": false
+  },
+  "TD01-003": {
+    "id": "TD01-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rising Flare Dragon",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-003%5D%20Rising%20Flare%20Dragon.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rising Flare Dragon",
+    "type": "Monster",
+    "cost": 0,
+    "Size": "2",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Armordragon",
+      "Red Dragon"
+    ],
+    "Power": "5000",
+    "Critical": "2",
+    "Defense": "4000",
+    "Keyword": [
+      "BuddyGift"
+    ]
+  },
+  "TD01-004": {
+    "id": "TD01-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Extreme Sword Dragon",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-004%5D%20Extreme%20Sword%20Dragon.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Extreme Sword Dragon",
+    "type": "Monster",
+    "cost": 0,
+    "Size": "2",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Armordragon",
+      "Red Dragon"
+    ],
+    "Power": "5000",
+    "Critical": "3",
+    "Defense": "4000",
+    "Keyword": false
+  },
+  "TD01-005": {
+    "id": "TD01-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thousand Rapier Dragon",
+        "type": "Monster",
+        "cost": "0",
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-005%5D%20Thousand%20Rapier%20Dragon.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thousand Rapier Dragon",
+    "type": "Monster",
+    "cost": 0,
+    "Size": "1",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Armordragon",
+      "White Dragon"
+    ],
+    "Power": "5000",
+    "Critical": "2",
+    "Defense": "1000",
+    "Keyword": false
+  },
+  "TD01-006": {
+    "id": "TD01-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bear-Trap Fang Dragon",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-006%5D%20Bear-Trap%20Fang%20Dragon.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bear-Trap Fang Dragon",
+    "type": "Monster",
+    "cost": 0,
+    "Size": "1",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Armordragon",
+      "Red Dragon"
+    ],
+    "Power": "4000",
+    "Critical": "2",
+    "Defense": "2000",
+    "Keyword": false
+  },
+  "TD01-007": {
+    "id": "TD01-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Systemic Dagger Dragon",
+        "type": false,
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-007%5D%20Systemic%20Dagger%20Dragon.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Systemic Dagger Dragon",
+    "type": "Monster",
+    "cost": 0,
+    "Size": "1",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Armordragon"
+    ],
+    "Power": "3000",
+    "Critical": "2",
+    "Defense": "3000",
+    "Keyword": false
+  },
+  "TD01-008": {
+    "id": "TD01-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bronze Shield Dragon",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-008%5D%20Bronze%20Shield%20Dragon.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bronze Shield Dragon",
+    "type": "Monster",
+    "cost": 0,
+    "Size": "1",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Armordragon",
+      "Green Dragon"
+    ],
+    "Power": "2000",
+    "Critical": "1",
+    "Defense": "6000",
+    "Keyword": false
+  },
+  "TD01-009": {
+    "id": "TD01-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragonic Grimoire",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-009%5D%20Dragonic%20Grimoire.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragonic Grimoire",
+    "type": false,
+    "cost": 0,
+    "Size": "",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Gold Dragon",
+      "Draw"
+    ],
+    "Power": "",
+    "Critical": "",
+    "Defense": "",
+    "Keyword": false
+  },
+  "TD01-010": {
+    "id": "TD01-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon Breath",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-010%5D%20Dragon%20Breath.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon Breath",
+    "type": "Spell",
+    "cost": 0,
+    "Size": "",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Dragon"
+    ],
+    "Power": "",
+    "Critical": "",
+    "Defense": "",
+    "Keyword": false
+  },
+  "TD01-011": {
+    "id": "TD01-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragoenergy",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-011%5D%20Dragoenergy.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragoenergy",
+    "type": "Spell",
+    "cost": 0,
+    "Size": 0,
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Dragon"
+    ],
+    "Power": "",
+    "Critical": "",
+    "Defense": "",
+    "Keyword": false
+  },
+  "TD01-012": {
+    "id": "TD01-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Green Dragon Shield",
+        "type": false,
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-012%5D%20Green%20Dragon%20Shield.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Green Dragon Shield",
+    "type": "Spell",
+    "cost": 0,
+    "Size": "",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Green Dragon",
+      "Defense"
+    ],
+    "Power": "",
+    "Critical": "",
+    "Defense": "",
+    "Keyword": false
+  },
+  "TD01-013": {
+    "id": "TD01-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragonblade, Dragobrave",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-013%5D%20Dragonblade,%20Dragobrave.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragonblade, Dragobrave",
+    "type": "Item",
+    "cost": 0,
+    "Size": "",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Dragon",
+      "Weapon"
+    ],
+    "Power": "5000",
+    "Critical": "3",
+    "Defense": "",
+    "Keyword": false
+  },
+  "TD01-014": {
+    "id": "TD01-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragonblade, Dragofearless",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-014%5D%20Dragonblade,%20Dragofearless.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragonblade, Dragofearless",
+    "type": "Item",
+    "cost": 0,
+    "Size": "",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Dragon",
+      "Weapon"
+    ],
+    "Power": "3000",
+    "Critical": "2",
+    "Defense": "",
+    "Keyword": false
+  },
+  "TD01-015": {
+    "id": "TD01-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gargantua Punisher",
+        "type": "Impact",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-015%5D%20Gargantua%20Punisher.png?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Gargantua Punisher",
+    "type": "Impact",
+    "cost": 0,
+    "Size": "",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Dragon"
+    ],
+    "Power": "",
+    "Critical": "",
+    "Defense": "",
+    "Keyword": false
+  },
+  "TD01-016": {
+    "id": "TD01-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "[Buddy Gift] Rising Flare Dragon",
+        "type": "Buddy Gift",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BBuddy%20Gift%5D%20Rising%20Flare%20Dragon.png?raw=true",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Buddy Gift",
+        "type": "Buddy Gift",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/gift_cardback.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "[Buddy Gift] Rising Flare Dragon",
+    "type": "Buddy Gift",
+    "cost": 0,
+    "Size": "",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": [
+      "Buddy"
+    ],
+    "Power": "",
+    "Critical": "",
+    "Defense": "",
+    "Keyword": false
+  },
+  "TD01-017": {
+    "id": "TD01-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon World",
+        "type": "Flag",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-017%5D%20Dragon%20World.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon World",
+    "type": "Flag",
+    "cost": 0,
+    "Size": "",
+    "World": [
+      "Dragon World"
+    ],
+    "Attribute": false,
+    "Power": "",
+    "Critical": "",
+    "Defense": "",
+    "Keyword": false
+  }
+}
