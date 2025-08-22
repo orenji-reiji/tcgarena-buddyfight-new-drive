@@ -25,7 +25,8 @@
         "gameplay": "Standard",
         "customCategories": [
           "Flag",
-          "Buddy"
+          "Buddy",
+          "Gifts"
         ]
       }
     ]
@@ -58,7 +59,7 @@
           "Monster Right",
           "Flag",
           "Buddy",
-          "Play Area",
+          "Gifts",
           "Gauge",
           "Sets"
         ],
@@ -68,11 +69,14 @@
           "content": [
             {
               "direction": "column",
-              "style": false,
+              "style": {
+                "width": "32vh",
+                "marginRight": "8vh"
+              },
               "content": [
                 {
                   "section": "Gauge",
-                  "style": false
+                  "style": ""
                 },
                 {
                   "section": "Sets",
@@ -109,7 +113,7 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Play Area",
+                      "section": "Gifts",
                       "style": false
                     },
                     {
@@ -201,8 +205,8 @@
           },
           "Buddy": {
             "title": "Buddy",
-            "isHidden": "opponent-only",
-            "height": "MEDIUM",
+            "isHidden": "yes",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -215,27 +219,11 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Play Area": {
-            "title": "Play Area",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Play Area",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Gauge": {
             "title": "Gauge",
             "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "MEDIUM",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -251,11 +239,27 @@
             "title": "Sets",
             "isHidden": "opponent-only",
             "height": "MEDIUM",
-            "alignment": "START",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Sets",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Gifts": {
+            "title": "Gifts",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Play Area",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
