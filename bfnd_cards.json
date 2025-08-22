@@ -9,6 +9,13 @@
         "cost": "0",
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-001%5D%20Gigant%20Sword%20Dragon.png?raw=true",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
+        "isHorizontal": false
       }
     },
     "name": "Gigant Sword Dragon",
@@ -35,6 +42,13 @@
         "type": "Monster",
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-002%5D%20Jamadhar%20Dragon.png?raw=true",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -63,6 +77,13 @@
         "type": "Monster",
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-003%5D%20Rising%20Flare%20Dragon.png?raw=true",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -94,6 +115,13 @@
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-004%5D%20Extreme%20Sword%20Dragon.png?raw=true",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
+        "isHorizontal": false
       }
     },
     "name": "Extreme Sword Dragon",
@@ -121,6 +149,13 @@
         "type": "Monster",
         "cost": "0",
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-005%5D%20Thousand%20Rapier%20Dragon.png?raw=true",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -150,6 +185,13 @@
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-006%5D%20Bear-Trap%20Fang%20Dragon.png?raw=true",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
+        "isHorizontal": false
       }
     },
     "name": "Bear-Trap Fang Dragon",
@@ -178,6 +220,13 @@
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-007%5D%20Systemic%20Dagger%20Dragon.png?raw=true",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
+        "isHorizontal": false
       }
     },
     "name": "Systemic Dagger Dragon",
@@ -204,6 +253,13 @@
         "type": "Monster",
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-008%5D%20Bronze%20Shield%20Dragon.png?raw=true",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -233,6 +289,13 @@
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-009%5D%20Dragonic%20Grimoire.png?raw=true",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
+        "isHorizontal": false
       }
     },
     "name": "Dragonic Grimoire",
@@ -261,6 +324,13 @@
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-010%5D%20Dragon%20Breath.png?raw=true",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
+        "isHorizontal": false
       }
     },
     "name": "Dragon Breath",
@@ -288,6 +358,13 @@
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-011%5D%20Dragoenergy.png?raw=true",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
+        "isHorizontal": false
       }
     },
     "name": "Dragoenergy",
@@ -314,6 +391,13 @@
         "type": false,
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-012%5D%20Green%20Dragon%20Shield.png?raw=true",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -343,6 +427,13 @@
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-013%5D%20Dragonblade,%20Dragobrave.png?raw=true",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
+        "isHorizontal": false
       }
     },
     "name": "Dragonblade, Dragobrave",
@@ -370,6 +461,13 @@
         "type": "Item",
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-014%5D%20Dragonblade,%20Dragofearless.png?raw=true",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -399,6 +497,13 @@
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-015%5D%20Gargantua%20Punisher.png?raw=true",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
+        "isHorizontal": false
       }
     },
     "name": "Gargantua Punisher",
@@ -459,6 +564,13 @@
         "type": "Flag",
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/TD01/%5BTD01-017%5D%20Dragon%20World.jpg?raw=true",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true",
         "isHorizontal": false
       }
     },
