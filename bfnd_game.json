@@ -9,7 +9,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://orenji-reiji.github.io/tcgarena-buddyfight-new-drive/bfnd_cards.json",
-    "cardBack": ""
+    "cardBack": "https://github.com/orenji-reiji/tcgarena-buddyfight-new-drive/blob/main/newdrive_cardback.jpg?raw=true"
   },
   "deckBuilding": {
     "mainFilters": [
