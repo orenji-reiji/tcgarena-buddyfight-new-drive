@@ -41,7 +41,7 @@
         "drawNewSelectedCards": false
       },
       "newTurn": {
-        "drawOnStart": true,
+        "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
@@ -51,7 +51,7 @@
       "countersStartingValues": [
         "10"
       ],
-      "hideFacedDownCards": false,
+      "hideFacedDownCards": true,
       "sections": {
         "customSections": [
           "Monster Left",
@@ -138,10 +138,13 @@
         },
         "categoriesAlreadyOnBoard": [
           "Flag",
-          "Buddy"
+          "Buddy",
+          "Buddy Gift"
         ],
         "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromStack": {
+          "Deck": "Gauge"
+        },
         "sectionsDict": {
           "Monster Left": {
             "title": "Monster Left",
