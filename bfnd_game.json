@@ -116,7 +116,9 @@
                 },
                 {
                   "direction": "row",
-                  "style": false,
+                  "style": {
+                    "alignment": "top"
+                  },
                   "content": [
                     {
                       "section": "Buddy",
