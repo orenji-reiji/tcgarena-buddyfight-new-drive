@@ -59,7 +59,8 @@
           "Buddy",
           "Buddy Gift",
           "Gauge",
-          "Sets"
+          "Sets",
+          "Item"
         ],
         "layout": {
           "direction": "row",
@@ -98,6 +99,17 @@
                 {
                   "section": "Monster Center",
                   "style": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Item",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
                   "direction": "row",
@@ -193,7 +205,7 @@
           "Flag": {
             "title": "Flag",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -263,6 +275,22 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Buddy Gift",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Item": {
+            "title": "Item",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Item",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
