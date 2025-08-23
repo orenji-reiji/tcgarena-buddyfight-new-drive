@@ -117,7 +117,7 @@
                 {
                   "direction": "row",
                   "style": {
-                    "alignment": "top"
+                    "marginBottom": "10rem"
                   },
                   "content": [
                     {
@@ -257,7 +257,7 @@
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
-            "opponentAlignment": false,
+            "opponentAlignment": "false",
             "noAutoPayTo": false,
             "displayedTitle": "",
             "noQuickActions": false,
